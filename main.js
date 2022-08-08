@@ -3,11 +3,11 @@ var nose_y = 0;
 var w = 1, h = 1, x = 1, y = 1;
 var img, img_dog, img_clown, img_filter;
 function preload() { 
-    img_clown = loadImage('Images/Clown.png');
-    img_dog = loadImage('Images/Dog.png');
-    img_mustache = loadImage('Images/Mustache.png');
-    img_lipstick = loadImage('Images/Lipstick.png');
-    img_sunglasses = loadImage('Images/Sunglasses.png')
+    img_clown = loadImage('Clown.png');
+    img_dog = loadImage('Dog.png');
+    img_mustache = loadImage('Mustache.png');
+    img_lipstick = loadImage('Lipstick.png');
+    img_sunglasses = loadImage('Sunglasses.png')
 }
 
 function setup() {
